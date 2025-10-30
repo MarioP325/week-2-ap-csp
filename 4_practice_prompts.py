@@ -1,4 +1,5 @@
 
+
 # ----------------------------------------
 # Print Practice Exercises
 # ----------------------------------------
@@ -20,14 +21,21 @@ print(500 + 55)
 ##############################################################################################################
 # Find 3 objects around the room and create variables from it,
 # Insert those variables into an f-string sentence(look at slide 22)in repl.it
-
-
+bag="red"
+window = 4
+computer_mouse = "clicking"
+# Nice! yeah
+print(f"The bag is the color {bag}, there are {window} windows, and we're currently {computer_mouse} with our mouse!")
 # Familiarize yourself with the syntax of the print() function.
 # Print your name.
+print("Mario")
 # Print today's date.
+print("October 10, 2025")
 # Print the name of your favorite movie.
-
-# Print your name and age on separate lines using a single print() function.
+# Let's print both of our favorite movies. Hey, I know that one! its so peak
+print("The Spongebob Squarepants Movie is Antonio's favorite movie.")
+print("The project sekai colorful stage is Mario's favorite movie")
+# Print your name and age on separate lines using a single print() function. How do we print on separate lines again? Do we just press enter?
 # Use f-strings to print a message like: "In 10 years, [Your Name] will be [Your Age + 10] years old."
 
 ##############################################################################################################

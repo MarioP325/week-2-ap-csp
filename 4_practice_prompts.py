@@ -35,7 +35,14 @@ print("October 10, 2025")
 # Let's print both of our favorite movies. Hey, I know that one! its so peak
 print("The Spongebob Squarepants Movie is Antonio's favorite movie.")
 print("The project sekai colorful stage is Mario's favorite movie")
-# Print your name and age on separate lines using a single print() function. How do we print on separate lines again? Do we just press enter?
+# Print your name and age on separate lines using a single print() function.
+name_a = "Antonio"
+name_m = "Mario"
+a_age = 16
+m_age = 16
+print(f"This is {name_m} and {name_a}'s document.
+{name_m} is {m_age} years old and {name_a} is {a_age} years old.")
+# anyway time up
 # Use f-strings to print a message like: "In 10 years, [Your Name] will be [Your Age + 10] years old."
 
 ##############################################################################################################

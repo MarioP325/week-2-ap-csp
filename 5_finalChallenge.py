@@ -17,3 +17,7 @@
 # Well, try to do it on your own, and if it gets complicated, don’t worry, we will solve it together in the next lecture.
 
 # Cheers and good luck.
+
+last_name = input("What is the drink made out of")
+first_name = input("What is a property the drink has")
+print(f"The name of your drink should be {first_name} {last_name}! If you don't like it, or you can always build off of what we provided you!")
